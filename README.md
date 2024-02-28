@@ -2,6 +2,10 @@
 
 https://github.com/andrei2002petcu/OpenGL-projects/assets/94044661/4d588492-9b87-422f-bcc2-ff6c4bd13763
 
+# 🌻 [PvZ GAME](https://github.com/andrei2002petcu/OpenGL-projects/tree/main/src/lab_m1/tema1)
+
+https://github.com/andrei2002petcu/OpenGL-projects/assets/94044661/f2de38b8-0fd7-498b-9c30-e8852a4c4b8e
+
 
 # GFX Framework
 
